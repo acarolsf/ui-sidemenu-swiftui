@@ -11,6 +11,7 @@
 		F073039B262B4731001AFB84 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F073039A262B4731001AFB84 /* ContentView.swift */; };
 		F073039D262B476D001AFB84 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F073039C262B476D001AFB84 /* Assets.xcassets */; };
 		F07303A0262B476D001AFB84 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F073039F262B476D001AFB84 /* Preview Assets.xcassets */; };
+		F07303A9262B62A5001AFB84 /* CustomSymbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = F07303A8262B62A5001AFB84 /* CustomSymbols.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		F073039C262B476D001AFB84 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F073039F262B476D001AFB84 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F07303A1262B476D001AFB84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F07303A8262B62A5001AFB84 /* CustomSymbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSymbols.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				F0730398262B4731001AFB84 /* sidemenu_swiftuiApp.swift */,
 				F073039A262B4731001AFB84 /* ContentView.swift */,
+				F07303A8262B62A5001AFB84 /* CustomSymbols.swift */,
 				F073039C262B476D001AFB84 /* Assets.xcassets */,
 				F07303A1262B476D001AFB84 /* Info.plist */,
 				F073039E262B476D001AFB84 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				F073039B262B4731001AFB84 /* ContentView.swift in Sources */,
 				F0730399262B4731001AFB84 /* sidemenu_swiftuiApp.swift in Sources */,
+				F07303A9262B62A5001AFB84 /* CustomSymbols.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
