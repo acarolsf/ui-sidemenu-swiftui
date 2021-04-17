@@ -5,4 +5,4 @@ Code based on [@FradSer](https://github.com/FradSer/30-days-of-swiftui/tree/mast
 ## Screenshot
 MainScreen | MenuScreen  
 -----------|-------------
-![](https://github.com/acarolsf/ui-sidemenu-swiftui/blob/main/menu-outside.png?raw=true) | ![](https://github.com/acarolsf/ui-sidemenu-swiftui/blob/main/menu-inside.png?raw=true)
+![](https://github.com/acarolsf/ui-sidemenu-swiftui/blob/main/screenshots/menu-outside.png?raw=true) | ![](https://github.com/acarolsf/ui-sidemenu-swiftui/blob/main/screenshots/menu-inside.png?raw=true)
